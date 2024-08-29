@@ -24,4 +24,4 @@ and preferences of Spotify users. The data covers customer demographic factors (
 For further understandings of Spotify users, I split the dashboard into 2 tabs: (1) User-Characteristics and (2) User-Preference. 
 - Visualization: I use a combinations of charts (bar charts, pie charts, line charts, donut charts) as well as icons and summary metrics to
   capture customer behaviors, preferences and important metrics. 
-- Analysis: 
+- Analysis: all analysis and inferences are written in [*Spotify_report.pdf*](https://github.com/hanhng294/Spotify_analysis/blob/main/Spotify_report.pdf)
